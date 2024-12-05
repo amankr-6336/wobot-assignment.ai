@@ -137,7 +137,7 @@ function App() {
 
   // function to Toggle Status of each row
   const toggleStatus = (id, currentStatus) => {
-    console.log(id)
+    console.log(id,filter)
     const newStatus = currentStatus === "Active" ? "Inactive" : "Active";
     axios
       .put(
