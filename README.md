@@ -2,8 +2,8 @@
 
 # how to run on local system
 
--just do npm install in the terminal
--then npm start
+- just do npm install in the terminal
+- then npm start
 
 # feartures
 - added pagination,deletion and searching.
